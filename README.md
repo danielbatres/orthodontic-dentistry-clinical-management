@@ -1,1 +1,1 @@
-# orthodontic-dentistry-clinical-management
+# Orthodontic and Dentistry Clinical Management Java Application

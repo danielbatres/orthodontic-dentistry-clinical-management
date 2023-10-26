@@ -1,0 +1,31 @@
+# Eclipse
+.project
+.classpath
+.settings/
+
+# NetBeans
+/nbproject/private/
+/build/
+/nbbuild/
+/dist/
+/nbactions.xml
+/nb-configuration.xml
+
+# IntelliJ IDEA
+out/
+.idea/
+
+# Compiled class files
+*.class
+
+# Log files
+*.log
+
+# BlueJ
+.bluej
+
+# Mac OS
+.DS_Store
+
+# Windows
+Thumbs.db
